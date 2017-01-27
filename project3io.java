@@ -3,7 +3,7 @@ class project3io{
 		for(String n: args){
 			System.out.println("Hello " + n );
 		}
-		System.out.println("There are " + args.length + "Woman");
+		System.out.println("There are " + args.length + "man");
 		System.out.println("Hello Everyone!");
 		System.out.println("I'm Nikka Delgado :)");
     }
